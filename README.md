@@ -96,7 +96,7 @@ Pour réussir ce projet, voici les notions essentielles :
 * 📌 [The C Programming Language – Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language) (le livre culte)
 * 📌 [Malloc Explained](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) (bases sur l’allocation)
 * 📌 [Video – Pointeurs en C](https://www.youtube.com/watch?v=zuegQmMdy8M) (intro visuelle et simple)
-* 📌 [Open Classroom - Apprenez à programmer en C]([https://www.youtube.com/watch?v=zuegQmMdy8M](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)) (toutes les         bases et facile)
+* 📌 [Open Classroom - Apprenez à programmer en C](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c) (toutes les bases et facile)
 
 ---
 
